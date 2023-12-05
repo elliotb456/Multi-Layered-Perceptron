@@ -1,2 +1,5 @@
 # Multi-Layered-Perceptron
 An MLP machine designed to work with the Iris dataset to categorize the iris flowers into one of three species based on their four features.
+
+The Iris dataset comprises 150 instances of iris flowers each possessing four attributes and a class label that specifies the species of the iris. It was introduced by Ronald Fisher, a statistician and biologist in his paper titled "The Use of Measurements, in Taxonomic Problems" published in 1936. This dataset serves as a known resource for examples in machine learning and statistics. (Fisher 1988)
+The Iris dataset represents a classification problem where the objective is to categorize the iris flowers into one of three species based on their four features. Although this dataset behaves well achieving 100% accuracy with algorithms can still be challenging. It is not particularly suitable for datasets or large-scale problems. Despite its size, it provides a platform for exploring data visualization techniques, clustering methods and classification algorithms. (Fisher 1988)
